@@ -14,13 +14,13 @@ Sou um desenvolvedor web iniciante focado em criar projetos úteis e bem feitos,
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## ⚡ Projetos em Destaque
+
+- [Meu Portfólio](https://github.com/matheushabeck/portfolio) — Meu site pessoal feito com HTML e CSS  
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheushabeck/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheushabeck)  
-
-## ⚡ Projetos em Destaque
-
-- [Meu Portfólio](https://github.com/matheushabeck/portfolio) — Meu site pessoal feito com HTML e CSS  
 
 _Obrigado pela visita!_ 🚀
