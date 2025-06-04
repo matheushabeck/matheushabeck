@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Matheus Habeck 👋
 
-<!--
-**matheushabeck/matheushabeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor web iniciante focado em criar projetos úteis e bem feitos, sempre buscando aprender e evoluir.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5 | CSS3 (Flexbox) | JavaScript (básico)
+- Git & GitHub
+- VS Code
+- Google Fonts
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)  
+- [GitHub](https://github.com/matheushabeck)  
+- email@example.com  
+
+## ⚡ Projetos em Destaque
+
+- [Meu Portfólio](https://github.com/matheushabeck/portfolio) — Meu site pessoal feito com HTML e CSS  
+- (adicione outros projetos que quiser destacar)
+
+---
+
+_Obrigado pela visita!_ 🚀
