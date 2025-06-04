@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus H. Habeck 👋
+# Olá, eu sou o Matheus Habeck 👋
 
 Sou um desenvolvedor web iniciante focado em criar projetos úteis e bem feitos, sempre buscando aprender e evoluir.
 
@@ -11,8 +11,8 @@ Sou um desenvolvedor web iniciante focado em criar projetos úteis e bem feitos,
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/matheushabeck/)  
-- [GitHub](https://github.com/matheushabeck)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheushabeck/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheushabeck)  
 
 ## ⚡ Projetos em Destaque
 
