@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Howe Habeck 👋
 
-Sou um desenvolvedor web iniciante focado em criar projetos úteis e bem feitos, sempre buscando aprender e evoluir.
+Sou um desenvolvedor iniciante focado em criar projetos úteis e bem feitos, sempre buscando aprender e evoluir.
 
 ## 🛠️ Tecnologias e Ferramentas
 
