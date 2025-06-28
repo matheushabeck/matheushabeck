@@ -17,7 +17,7 @@ Sou um desenvolvedor web iniciante focado em criar projetos úteis e bem feitos,
 ## ⚡ Projetos em Destaque
 
 - [Meu Portfólio](https://github.com/matheushabeck/portfolio) — Meu site pessoal feito com HTML e CSS
-- [Cadastro de Produtos em Java](https://github.com/matheushabeck/cadastro-produtos-java) — Projeto de um sistema de cadastro de produtos feito em Java 
+- [EmpresaJDBC](https://github.com/matheushabeck/EmpresaJDBC.git) — Sistema Java para gestão de pessoas, funcionários e projetos com JDBC e MySQL
 
 ## 📫 Contato
 
