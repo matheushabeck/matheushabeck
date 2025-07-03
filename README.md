@@ -20,7 +20,12 @@ Sou um desenvolvedor iniciante focado em criar projetos úteis e bem feitos, sem
 ## ⚡ Projetos em Destaque
 
 - [Meu Portfólio](https://github.com/matheushabeck/portfolio) — Meu site pessoal feito com HTML e CSS
-- [EmpresaJDBC](https://github.com/matheushabeck/EmpresaJDBC.git) — Sistema Java para gestão de pessoas, funcionários e projetos com JDBC e MySQL
+- [EmpresaJDBC](https://github.com/matheushabeck/EmpresaJDBC) — Sistema Java para gestão de pessoas, funcionários e projetos com JDBC e MySQL
+
+## 📈 Objetivos
+
+Atualmente, busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor back-end.  
+Meu foco é me tornar um desenvolvedor Java full stack, com domínio tanto do lado do servidor quanto da interface do usuário.
 
 ## 📫 Contato
 
