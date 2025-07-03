@@ -24,8 +24,8 @@ Sou um desenvolvedor iniciante focado em criar projetos úteis e bem feitos, sem
 
 ## 📈 Objetivos
 
-Atualmente, busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor back-end.  
-Meu foco é me tornar um desenvolvedor Java full stack, com domínio tanto do lado do servidor quanto da interface do usuário.
+Atualmente, busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor.
+Meu foco é me tornar um desenvolvedor full stack, com domínio tanto do lado do servidor quanto da interface do usuário.
 
 ## 📫 Contato
 
