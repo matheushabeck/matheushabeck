@@ -1,6 +1,14 @@
 # Olá, eu sou o Matheus Howe Habeck 👋
 
-Tenho 17 anos, sou de Blumenau - SC e apaixonado por tecnologia desde cedo. Atualmente, sou um desenvolvedor iniciante focado em criar projetos úteis e bem feitos, sempre buscando aprender, evoluir e colocar em prática o que estudo. Meu objetivo é me tornar um desenvolvedor full stack, dominando tanto o back-end quanto o front-end, e estou em busca de oportunidades para aplicar meus conhecimentos em projetos reais.
+Tenho **17 anos**, sou de **Blumenau - SC** e apaixonado por tecnologia desde cedo.
+
+Sou um **desenvolvedor iniciante** focado em criar projetos **úteis**, **bem feitos** e com **código limpo**.  
+Estou sempre buscando aprender, evoluir e colocar em prática tudo o que estudo.
+
+Atualmente, meu objetivo é me tornar um **desenvolvedor full stack**, dominando tanto o **back-end** quanto o **front-end**.  
+Busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar crescendo como profissional.
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -13,14 +21,18 @@ Tenho 17 anos, sou de Blumenau - SC e apaixonado por tecnologia desde cedo. Atua
 
 ### IDEs e Ferramentas  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 ## ⚡ Projetos em Destaque
 
-- [Meu Portfólio](https://github.com/matheushabeck/portfolio) — Meu site pessoal feito com HTML e CSS
-- [EmpresaJDBC](https://github.com/matheushabeck/EmpresaJDBC) — Sistema Java para gestão de pessoas, funcionários e projetos com JDBC e MySQL
+- [**Meu Portfólio**](https://github.com/matheushabeck/portfolio) — Meu site pessoal feito com HTML e CSS  
+- [**EmpresaJDBC**](https://github.com/matheushabeck/EmpresaJDBC) — Sistema Java para gestão de pessoas, funcionários e projetos com JDBC e MySQL
+
+---
 
 ## 📫 Contato
 
