@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Howe Habeck 👋
 
-Sou um desenvolvedor iniciante focado em criar projetos úteis e bem feitos, sempre buscando aprender e evoluir.
+Tenho 17 anos, sou de Blumenau - SC e apaixonado por tecnologia desde cedo. Atualmente, sou um desenvolvedor iniciante focado em criar projetos úteis e bem feitos, sempre buscando aprender, evoluir e colocar em prática o que estudo. Meu objetivo é me tornar um desenvolvedor full stack, dominando tanto o back-end quanto o front-end, e estou em busca de oportunidades para aplicar meus conhecimentos em projetos reais.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -21,11 +21,6 @@ Sou um desenvolvedor iniciante focado em criar projetos úteis e bem feitos, sem
 
 - [Meu Portfólio](https://github.com/matheushabeck/portfolio) — Meu site pessoal feito com HTML e CSS
 - [EmpresaJDBC](https://github.com/matheushabeck/EmpresaJDBC) — Sistema Java para gestão de pessoas, funcionários e projetos com JDBC e MySQL
-
-## 📈 Objetivos
-
-Atualmente, busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor.  
-Meu foco é me tornar um desenvolvedor full stack, com domínio tanto do lado do servidor quanto da interface do usuário.
 
 ## 📫 Contato
 
