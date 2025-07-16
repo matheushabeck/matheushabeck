@@ -8,11 +8,8 @@
 
 Tenho **17 anos**, sou de **Blumenau - SC** e apaixonado por tecnologia desde cedo.
 
-Sou um **desenvolvedor iniciante** focado em criar projetos **úteis** e **bem feitos**.  
-Sempre buscando aprender, evoluir e colocar em prática tudo o que estudo.
+Sou um **desenvolvedor iniciante** focado em criar projetos **úteis** e **bem feitos**. Sempre buscando aprender, evoluir e colocar em prática tudo o que estudo. 
 
-Atualmente, meu objetivo é me tornar um **desenvolvedor full stack**, dominando tanto o **back-end** quanto o **front-end**.  
-Busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar crescendo como profissional.
 
 ---
 
