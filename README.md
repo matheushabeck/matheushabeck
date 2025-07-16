@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Eu+sou+o+Matheus+Habeck+%F0%9F%91%8B;Desenvolvedor+iniciante+de+Blumenau+-+SC;Apaixonado+por+tecnologia+e+em+constante+evolução+%F0%9F%9A%80" alt="Typing animation header" />
+</p>
+
+---
+
 # Olá, eu sou o Matheus Howe Habeck 👋
 
 Tenho **17 anos**, sou de **Blumenau - SC** e apaixonado por tecnologia desde cedo.
