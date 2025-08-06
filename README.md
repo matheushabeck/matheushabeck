@@ -38,6 +38,7 @@ Sou um **desenvolvedor iniciante** focado em criar projetos **úteis** e **bem f
 _Obrigado pela visita!_ 🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2193b0,6dd5ed&height=65&section=footer"/>
+
 </p>
 
