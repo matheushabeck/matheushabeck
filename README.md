@@ -35,7 +35,3 @@ Sou um **desenvolvedor iniciante** focado em criar projetos **úteis** e **bem f
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheushabeck)  
 
 _Obrigado pela visita!_ 🚀
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
