@@ -32,11 +32,12 @@ Sou um **desenvolvedor iniciante** focado em criar projetos **úteis** e **bem f
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/matheushabeck/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white&color=181717" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/matheushabeck">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"/>
 </a>
 
 _Obrigado pela visita!_ 🚀
+
