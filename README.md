@@ -40,5 +40,3 @@ Sou um **desenvolvedor iniciante** focado em criar projetos **úteis** e **bem f
 </a>
 
 _Obrigado pela visita!_ 🚀
-
-
