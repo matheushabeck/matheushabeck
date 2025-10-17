@@ -12,7 +12,7 @@ Sou um **desenvolvedor iniciante** focado em criar projetos **úteis** e **bem f
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ### Linguagens  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -29,7 +29,7 @@ Sou um **desenvolvedor iniciante** focado em criar projetos **úteis** e **bem f
 
 ---
 
-## 📫 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheushabeck/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheushabeck)
