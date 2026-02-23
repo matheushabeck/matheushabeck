@@ -6,9 +6,9 @@
 
 # Olá, eu sou o Matheus Howe Habeck 👋
 
-Tenho **17 anos**, sou de **Blumenau-SC** e apaixonado por tecnologia desde cedo.
+Tenho **18 anos**, sou de **Blumenau-SC** e apaixonado por tecnologia desde cedo.
 
-Sou um **desenvolvedor iniciante** focado em criar projetos **úteis** e **bem feitos**. Sempre buscando **aprender**, **evoluir** e colocar em prática tudo o que estudo. 
+Sou um **desenvolvedor** focado em criar projetos para **resolver problemas**. Sempre buscando **aprender**, **evoluir** e colocar em prática tudo o que estudo. 
 
 ---
 
