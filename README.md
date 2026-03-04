@@ -8,7 +8,7 @@
 
 Tenho **18 anos**, sou de **Blumenau-SC** e apaixonado por tecnologia desde cedo.
 
-Sou um **desenvolvedor** focado em criar projetos para **resolver problemas**. Sempre buscando **aprender**, **evoluir** e colocar em prática tudo o que estudo. 
+Sou um **desenvolvedor** focado em criar projetos para **resolução de problemas**. Sempre buscando **aprender**, **evoluir** e colocar em prática tudo o que estudo. 
 
 ---
 
