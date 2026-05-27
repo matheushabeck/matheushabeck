@@ -12,9 +12,6 @@
 
 ## About
 
-Developer focused on building practical applications and improving software development skills through real projects.
-
-Main interests:
 - Backend development
 - Database systems
 - Web applications
