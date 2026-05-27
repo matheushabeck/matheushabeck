@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Matheus+Howe+Habeck;Java+Developer;Backend+and+Database+Focused" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Matheus Howe Habeck</h1>
-
-<p align="center">
-  Backend Developer focused on Java, databases, and web applications.
-</p>
-
 ---
 
 ## About
